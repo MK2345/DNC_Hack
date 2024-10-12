@@ -3,5 +3,5 @@ On July 22, 2016, Wikileaks published a collection of emails stolen from a Democ
 <!--<img src="Gephi_drawing.jpg">-->
 
 <p align="center">
-   img src="Gephi_drawing.jpg"
+   <img src="Gephi_drawing.jpg">
 </p>
